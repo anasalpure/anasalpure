@@ -60,6 +60,7 @@
 - PHP
 - Laravel Framework
 - Node js
+- Java
 - React js
 - Next js
 - Linux System Administration
