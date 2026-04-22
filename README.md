@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p align="left">I am a Software Engineer, basically working as a Full-Stack developer for the last 7 years.</p>
+<p align="left">Senior Software Engineer | 8 Years specializing in Backend Systems (MERN & LAMP)</p>
 
 ###
 <div align="left">
@@ -54,7 +54,6 @@
   <img src="https://img.icons8.com/color/48/000000/github.png" height="30" alt="Git & Github"  />
 </div>
 
-- Go Lang
 - JavaScript
 - TypeScript
 - PHP
