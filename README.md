@@ -3,6 +3,9 @@
 
 ###
 <div align="left">
+    <a href="https://anasalpure.syrian.uk/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Anas%20Alpure%20Website&logo=My%20Website&label=&color=10b981&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Anas Alpure Website"  />
+  </a>
   <a href="https://www.linkedin.com/in/anasalpure/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn%20Account&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
